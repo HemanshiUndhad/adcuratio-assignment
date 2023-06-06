@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/adcuratio-assignment/static/css/main.172d0755.css",
+    "main.css": "/adcuratio-assignment/static/css/main.0f499bc8.css",
     "main.js": "/adcuratio-assignment/static/js/main.bf8b1b92.js",
     "static/js/787.5e995ace.chunk.js": "/adcuratio-assignment/static/js/787.5e995ace.chunk.js",
     "index.html": "/adcuratio-assignment/index.html",
-    "main.172d0755.css.map": "/adcuratio-assignment/static/css/main.172d0755.css.map",
+    "main.0f499bc8.css.map": "/adcuratio-assignment/static/css/main.0f499bc8.css.map",
     "main.bf8b1b92.js.map": "/adcuratio-assignment/static/js/main.bf8b1b92.js.map",
     "787.5e995ace.chunk.js.map": "/adcuratio-assignment/static/js/787.5e995ace.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.172d0755.css",
+    "static/css/main.0f499bc8.css",
     "static/js/main.bf8b1b92.js"
   ]
 }
