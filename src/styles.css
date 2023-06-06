@@ -1,0 +1,34 @@
+body {
+    margin: 20px;
+}
+
+.modalWrap {
+    background-color: #eee;
+    margin-bottom: 20px;
+    padding: 20px;
+}
+
+.commentModal {
+    margin-bottom: 20px;
+}
+
+.commentButton {
+    border-radius: 2px;
+}
+
+.commentEditReply {
+    margin-left: 20px;
+    display: flex;
+    align-items: center;
+    border-bottom: 1px solid #eee
+}
+
+.reply {
+    margin-top: 20px;
+    margin-left: 20px;
+    background-color: #f9f9f9;
+    padding: 8px;
+    border: 1px solid #eee;
+    border-radius: 8px;
+    width: fit-content;
+}
